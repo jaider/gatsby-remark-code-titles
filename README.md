@@ -6,6 +6,11 @@ Adds a code title to code snippets
 
 ![Code title example](./example/code-title.png)
 
+## Use
+Check this page: https://bobbyhadz.com/blog/javascript-convert-map-values-to-array
+![image](https://user-images.githubusercontent.com/1471688/196732330-72279e11-6ecf-4e74-aa11-92b1c6ed2f21.png)
+
+
 ## Install
 
 ```bash
